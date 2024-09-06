@@ -99,11 +99,11 @@ This application is designed to be easily deployed on Vercel. Simply connect you
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
+<!--
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+-->
 ## Acknowledgments
 
 - [Next.js](https://nextjs.org/)
@@ -115,5 +115,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Framer Motion](https://www.framer.com/motion/)
 
 ---
+<!-- Built with ❤️ by [] -->
 
-Built with ❤️ by [Your Name]
